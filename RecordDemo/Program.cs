@@ -1,16 +1,4 @@
 ﻿
-
-
-
-
-
-
-
-
-
-
-
-
 // this is record declaration
 // pascal case used for parameters, because behind the scenes it work for us in record declaration
 // records act like value types, but they are not, they are reference type
