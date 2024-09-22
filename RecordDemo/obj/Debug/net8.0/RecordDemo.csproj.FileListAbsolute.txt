@@ -1,0 +1,14 @@
+C:\Local\RecordDemoApp\RecordDemo\bin\Debug\net8.0\RecordDemo.exe
+C:\Local\RecordDemoApp\RecordDemo\bin\Debug\net8.0\RecordDemo.deps.json
+C:\Local\RecordDemoApp\RecordDemo\bin\Debug\net8.0\RecordDemo.runtimeconfig.json
+C:\Local\RecordDemoApp\RecordDemo\bin\Debug\net8.0\RecordDemo.dll
+C:\Local\RecordDemoApp\RecordDemo\bin\Debug\net8.0\RecordDemo.pdb
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.AssemblyInfoInputs.cache
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.AssemblyInfo.cs
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.csproj.CoreCompileInputs.cache
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.dll
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\refint\RecordDemo.dll
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.pdb
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\RecordDemo.genruntimeconfig.cache
+C:\Local\RecordDemoApp\RecordDemo\obj\Debug\net8.0\ref\RecordDemo.dll
